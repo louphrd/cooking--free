@@ -1,0 +1,16 @@
+.btn{
+	background-color: #E29088;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-style: 0;
+	text-decoration: none;
+	font-family: 'Shippori Antique B1', sans-serif;
+	font-size: 20px;
+	margin-top: 60px;
+}
+.btn:hover{
+	background-color:white;
+	color: #E29088;
+}
+
